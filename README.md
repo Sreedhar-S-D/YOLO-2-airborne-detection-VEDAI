@@ -58,3 +58,5 @@ https://www.dropbox.com/s/oo2uis4442by3f1/yolov2-vedai_UCAS_final.weights?dl=0
 ![detection](experimental_result/predictions_024.jpg)
 ![detection](experimental_result/predictions_034.jpg)
 ![detection](experimental_result/predictions_878.jpg)
+
+after execution of the above statement we get the results in the darknet folder itself.
